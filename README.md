@@ -8,4 +8,6 @@ Logistics software - for your business;
 
 It is a pilot project to train HTML/CSS skills;
 
+To view my project, go to: https://wkmateusr.github.io/pilot/
+
 Thanks for watching!
