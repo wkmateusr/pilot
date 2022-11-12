@@ -6,8 +6,8 @@ Demo: https://wkmateusr.github.io/pilot/
 
 ## INTRO
 
-Este é um desafio Front-end do Frontend Mentor.
-*This is a Frontend Mentor Frontend challenge.*
+Este é um desafio Front-end do Frontend Mentor e meu projeto piloto.
+*This is a Frontend Mentor Frontend challenge and my pilot project.*
 
 ## FINALIDADE - PURPOSE
 
